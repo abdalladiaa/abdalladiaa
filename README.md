@@ -1,86 +1,83 @@
-# 👋 Hi, I'm Abdalla Diaa
+<h1 align="center">Hi 👋, I'm Abdalla Diaa</h1>
+<h3 align="center">Front-End Developer | Computer Science Student</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+and+Scalable+Web+Apps" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/abdalladiaa">
-    <img src="https://komarev.com/ghpvc/?username=abdalladiaa&style=flat-square&label=Profile+Views" />
-  </a>
-  <a href="https://www.linkedin.com/in/abdalla-diaa/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
-  </a>
-</div>
-
----
-
-## 🚀 About Me
-
-* 🎓 Computer Science student at **Benha University**
-* 💻 Front-End Developer focused on **React, Next.js, TypeScript**
-* ⚡ Passionate about building **dashboards, social platforms, and e-commerce apps**
-* 📈 Strong with **REST APIs, React Query, Redux Toolkit, and scalable UI architecture**
-* 🌱 Currently learning **advanced full-stack patterns & performance optimization**
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat\&logo=javascript\&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-
-### Styling & UI
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat\&logo=bootstrap\&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-black?style=flat)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat\&logo=redux\&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat\&logo=react-query\&logoColor=white)
-
----
-
-## 🌟 Featured Projects
-
-### 🔗 Social Media App
-
-A responsive social media platform with real-time style interactions, API-driven feeds, authentication, and reusable components.
-
-👉 **Live Demo:** [https://social-media-app-eight-roan.vercel.app/](https://social-media-app-eight-roan.vercel.app/)
-
-### 🛒 E-Commerce App
-
-A complete e-commerce experience with cart, auth, protected routes, product flow, and optimized API caching using React Query.
-
-👉 **Live Demo:** [https://fresh-cart-1ii6ik56x-abdalla-diaas-projects.vercel.app/](https://fresh-cart-1ii6ik56x-abdalla-diaas-projects.vercel.app/)
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdalladiaa" height="170" />
+  <a href="mailto:abdallazx009@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abdallazx009@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/abdalla-diaa">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/abdalladiaa">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+Motivated Front-End Developer and Computer Science student at Benha University with hands-on experience building 15+ responsive web applications, including social media and e-commerce platforms. Passionate about crafting fast, accessible, and modern user interfaces with clean, maintainable code.
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🎓 Education
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/abdalla-diaa/](https://www.linkedin.com/in/abdalla-diaa/)
-* 💻 GitHub: [https://github.com/abdalladiaa](https://github.com/abdalladiaa)
-* 📧 Email: [abdallazx009@gmail.com](mailto:abdallazx009@gmail.com)
+**Benha University** | *Benha, Egypt* (09/2024 – 09/2028)  
+*Bachelor of Computer and Artificial Intelligence — Computer Science*
+- **Relevant coursework:** Data Structures, Algorithms, OOP, C++, Artificial Intelligence fundamentals.
 
 ---
 
-> 💡 *I love turning complex ideas and data into smooth, scalable, and beautiful user experiences.*
+## 🛠️ Skills
+
+### 💻 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🎨 Styling
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) <br>
+**Other:** Shadcn, HeroUI, Responsive Design
+
+### 🧰 Tools & Workflow
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) <br>
+**Other:** REST APIs, Axios, React Hook Form, Zod
+
+### 🗄️ State Management
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
+![Redux Toolkit](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) <br>
+**Other:** Context API
+
+---
+
+## 🚀 Projects
+
+### 📱 Social Media Web Application
+*React, REST API*
+- Developed a responsive social media web application using React and REST APIs for dynamic content and user interactions.
+
+### 🛒 E-commerce Web Application
+*Next.js, Next Auth, React Query*
+- Developed a full-featured e-commerce web application with shopping cart, user authentication, and protected routes.
+- Integrated REST APIs using React Query for efficient data fetching and caching.
+
+---
+
+## 📜 Courses & Training
+
+- **Full-Stack Web Development Track** | *Route Academy* (09/2025 – 09/2026) <br> 
+  *(HTML, CSS, Bootstrap, JavaScript, React, Tailwind CSS, TypeScript, and Next.js)*
+- **Web Development Workshop** | *GDG Benha* (02/2025)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdalladiaa&show_icons=true&theme=radium" alt="Abdalla's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdalladiaa&theme=radium" alt="Abdalla's GitHub Streak" />
+</p>
