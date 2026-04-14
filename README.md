@@ -70,10 +70,10 @@ A complete e-commerce experience with cart, auth, protected routes, product flow
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdalladiaa&show_icons=true&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalladiaa&layout=compact&hide_border=true" height="160" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdalladiaa&show_icons=true&theme=transparent" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalladiaa&layout=compact&theme=transparent" height="170" />
+</p>
 
 ---
 
