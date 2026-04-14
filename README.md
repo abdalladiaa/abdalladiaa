@@ -69,10 +69,8 @@ A complete e-commerce experience with cart, auth, protected routes, product flow
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdalladiaa&show_icons=true&theme=transparent" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalladiaa&layout=compact&theme=transparent" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdalladiaa" height="170" />
 </p>
 
 ---
