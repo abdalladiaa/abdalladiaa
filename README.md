@@ -73,7 +73,7 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdalladiaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abdalla's Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=abdalladiaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abdalla's Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdalladiaa&theme=tokyonight&hide_border=true" alt="Abdalla's Streak" />
 </div>
 
