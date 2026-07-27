@@ -30,10 +30,17 @@
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
-<h3>📊 GitHub Statistics</h3>
+<h3 align="center">📊 GitHub Statistics</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdalladiaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdalladiaa&theme=tokyonight&hide_border=true"/>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=abdalladiaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  />
+  <img
+    height="180em"
+    src="https://streak-stats.demolab.com?user=abdalladiaa&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 <h3>🚀 Featured Projects</h3>
